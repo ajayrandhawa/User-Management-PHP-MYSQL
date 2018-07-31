@@ -1,6 +1,6 @@
 # User-Management-PHP-MYSQL
 
-User Cannot Not Login Until Admin Confirm User Account.
+PHP User Management System is a powerful PHP script that offers a secure user management system. The application is a great way to build your website, allowing your users to register an account and build restricted access to certain users. We offer great support and it’s very easy to install. It’s powered by MYSQL and PHP.
 
 # User Features
 
