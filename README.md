@@ -29,7 +29,10 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 * Download User Excel File 
 * Sorting 
 
+| Screenshots  | Screenshots |
 | ------------- | ------------- |
 | <img src="/Sc/1.PNG"> | <img src="/Sc/2.PNG"> |
+| <img src="/Sc/3.PNG"> | <img src="/Sc/4.PNG"> |
+| <img src="/Sc/5.PNG"> | <img src="/Sc/6.PNG"> |
 
 
