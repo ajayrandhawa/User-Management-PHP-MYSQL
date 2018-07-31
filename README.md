@@ -2,7 +2,7 @@
 
 User Cannot Not Login Until Admin Confirm User Account.
 
-#User Features
+# User Features
 
 * Login
 * Signup
@@ -12,7 +12,7 @@ User Cannot Not Login Until Admin Confirm User Account.
 * View Messages
 * Notification
 
-#Admin Features
+# Admin Features
 
 * Dashboard (Total Users, Deleted Users, Notification, Feedback Messages)
 * Signup
