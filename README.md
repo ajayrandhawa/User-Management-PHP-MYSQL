@@ -4,30 +4,30 @@ User Cannot Not Login Until Admin Confirm User Account.
 
 #User Features
 
-1.Login
-2.Signup
-3.Change Password
-4.Edit Profile
-5. Feedback
-6.View Messages
-7.Notification
+* Login
+* Signup
+* Change Password
+* Edit Profile
+* Feedback
+* View Messages
+* Notification
 
 #Admin Features
 
-1.Dashboard (Total Users, Deleted Users, Notification, Feedback Messages)
-2.Signup
-3.Change Password
-4.Edit Admin Profile
-5.Edit Users Profile
-6.Reply Feedback
-7.Delete Users
-8.Confirmed Users
-9.View Feedback
-10.Notification
-11.View Delelted Users
-12.Search Users, Feedback Messages
-13.Download User Excel File 
-14.Sorting 
+* Dashboard (Total Users, Deleted Users, Notification, Feedback Messages)
+* Signup
+* Change Password
+* Edit Admin Profile
+* Edit Users Profile
+* Reply Feedback
+* Delete Users
+* Confirmed Users
+* View Feedback
+* Notification
+* View Delelted Users
+* Search Users, Feedback Messages
+* Download User Excel File 
+* Sorting 
 
 
 
