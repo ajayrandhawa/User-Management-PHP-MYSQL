@@ -52,4 +52,9 @@ PHP User Management System is a powerful PHP script that offers a secure user ma
 
 Ajay Randhawa
 
+ ## Donate
+If you appreciate that, please consider donating to the Developer.
+
+[![Donate](https://cdn.pbrd.co/images/HyQFKkP.png)](https://www.paypal.me/ajayrandhawa) 
+
 
