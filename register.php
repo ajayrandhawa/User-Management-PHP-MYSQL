@@ -31,7 +31,7 @@ $querynoti-> bindParam(':notireciver',$reciver, PDO::PARAM_STR);
 $querynoti-> bindParam(':notitype', $notitype, PDO::PARAM_STR);
 $querynoti->execute();    
     
-$sql ="INSERT INTO users(name,email, password, gender, mobile, designation, image) VALUES(:name, :email, :password, :gender, :mobileno, :designation, :image)";
+$sql ="INSERT INTO users(name,email, password, gender, mobile, designation, image, status) VALUES(:name, :email, :password, :gender, :mobileno, :designation, :image, 1)";
 $query= $dbh -> prepare($sql);
 $query-> bindParam(':name', $name, PDO::PARAM_STR);
 $query-> bindParam(':email', $email, PDO::PARAM_STR);
