@@ -13,7 +13,7 @@ $query-> bindParam(':password', $password, PDO::PARAM_STR);
 $query-> bindParam(':status', $status, PDO::PARAM_STR);
 $query-> execute();
 $results=$query->fetchAll(PDO::FETCH_OBJ);
-if($query->rowCount() > 0)
+if(($query->rowCount() > 0) && $password === $query["password"])
 {
 $_SESSION['alogin']=$_POST['username'];
 echo "<script type='text/javascript'> document.location = 'profile.php'; </script>";
