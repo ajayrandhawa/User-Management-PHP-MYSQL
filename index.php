@@ -5,8 +5,8 @@ if(isset($_POST['login']))
 {
 $status='1';
 $email=$_POST['username'];
-$password=md5($_POST['password']);
-$sql ="SELECT email,password FROM users WHERE email=:email and password=:password and status=(:status)";
+$password=password_verify($_POST['password'],PASSWORD_BCRYPT);
+$sql ="SELECT email,password FROM users WHERE email=:email and status=(:status)";
 $query= $dbh -> prepare($sql);
 $query-> bindParam(':email', $email, PDO::PARAM_STR);
 $query-> bindParam(':password', $password, PDO::PARAM_STR);
